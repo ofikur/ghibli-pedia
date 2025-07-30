@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-ghibli-bg text-ghibli-text font-sans transition-colors duration-300;
+  }
+
+  .dark body {
+    @apply bg-ghibli-deep-blue text-ghibli-bg;
+  }
+}
