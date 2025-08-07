@@ -53,3 +53,12 @@ Ingin menjalankan proyek ini di komputermu? Ikuti langkah-langkah berikut:
     ```
 
 Buka `http://localhost:5173` di browsermu dan nikmati petualangannya!
+
+## 📜 Lisensi
+
+Proyek ini dirilis di bawah Lisensi MIT. Lihat file `LICENSE` untuk detail lebih lanjut.
+
+---
+
+### Terima Kasih 
+#### ~ Ofikur R.
